@@ -1,0 +1,132 @@
+/* GLOBAL */
+body {
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  background-color: #53B8BB;
+  color: #FDF6F0;
+}
+
+hr {
+  border-style: groove none none none;
+  width: 9%;
+  border-color: #FFA0A0;
+  border-width: 3px;
+}
+
+.navbar-inner {
+  background: transparent;
+}
+
+/* TITLE SECTION */
+#title {
+  padding: 8% 10% 12% 10%;
+  /* color: #FDF6F0; */
+}
+
+.header img {
+  height: 160px;
+  position: relative;
+  margin-right: 20%;
+  margin-bottom: 215x;
+}
+
+.header h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 6rem;
+  letter-spacing: 1rem;
+  margin-bottom: 20px;
+}
+
+.header h3 {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+  letter-spacing: 0.2rem;
+}
+
+/* GAMES SECTION */
+#games {
+  padding: 9% 10% 12% 10%;
+  /* color: #F7E6AD; */
+}
+
+.game-title {
+  /* font-family: 'Fredericka the Great', cursive; */
+  font-size: 2.5rem;
+  letter-spacing: 0.2rem;
+  font-weight: 600;
+}
+
+.game-image {
+  width: 60%;
+  border-radius: 20%;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  border-style: solid;
+  border-color: #716F81;
+  border-width: medium;
+}
+
+.game-text {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.game-header {
+  font-size: 1.7rem;
+}
+
+.game-desc {
+  font-size: 1.1rem;
+  /* color: #F3F2C9; */
+}
+
+/* TEAM SECTION */
+#team {
+  padding: 10% 10% 5% 10%;
+  /* color: #F7E6AD; */
+}
+
+.team-title {
+  /* font-family: 'Fredericka the Great', cursive; */
+  font-size: 2.5rem;
+  letter-spacing: 0.2rem;
+  font-weight: 600;
+}
+
+
+.carousel-item {
+  padding: 12% 30%;
+}
+
+.team-img {
+  width: 80%;
+  border-radius: 80%;
+  margin-bottom: 60px;
+}
+
+.team-header {
+  font-size: 2.5.0rem;
+}
+
+.team-desc {
+  /* color: #F3F2C9; */
+  font-size: 1.5rem;
+}
+
+/* FOOTER SECTION */
+#footer {
+  text-align: center;
+  padding: 5% 0 5%;
+  color: #F3F2C9;
+}
+
+.footer-icon {
+  margin: 10px 10px 20px;
+  font-size: 1.5rem;
+  color: #F3F2C9;
+}
+
+
+
+/* MOBILE SETTING */
+@media (max-width: 1064px) {}
